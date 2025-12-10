@@ -22,6 +22,10 @@ body {
   color: #2e2f42;
 }
 
+.logo-accent-footer {
+  color: #f4f4fd;
+}
+
 /* Main navigation */
 .nav-link {
   font-family: "Roboto", sans-serif;
@@ -35,9 +39,9 @@ body {
   color: #2e2f42;
 }
 
-.nav-link-studio:hover,
-.nav-link-studio:focus {
-  color: #4d5ae5;
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
 }
 
 /* Contacts */
@@ -89,11 +93,88 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
   background-color: #404bbf;
+}
+
+/* Features */
+.features-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+
+  /* line-height: 24px; */
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.features-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+
+  /* line-height: 24px; */
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* Our Team */
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  text-transform: capitalize;
+
+  /* line-height: 40px; */
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-item {
+  background-color: #ffffff;
+}
+
+/* Our Portfolio */
+.portfolio-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+
+  /* line-height: 40px; */
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.portfolio-item {
+  background-color: #ffffff;
+}
+
+/* Footer */
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+
+  /* line-height: 24px; */
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
