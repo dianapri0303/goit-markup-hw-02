@@ -28,9 +28,7 @@ body {
 
 /* Main navigation */
 .nav-link {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
-  font-size: 16px;
   text-decoration: none;
 
   /* line-height: 24px; */
@@ -50,15 +48,11 @@ body {
 }
 
 .address-link {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
   text-decoration: none;
 
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .address-link:hover,
@@ -72,8 +66,6 @@ body {
 }
 
 .hero-title {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
   font-size: 56px;
 
   /* line-height: 60px; */
@@ -85,7 +77,6 @@ body {
 
 .hero-btn {
   cursor: pointer;
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
 
@@ -103,7 +94,6 @@ body {
 
 /* Features */
 .features-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
 
@@ -114,14 +104,9 @@ body {
 }
 
 .features-text {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 /* Our Team */
@@ -130,8 +115,6 @@ body {
 }
 
 .team-title {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
   font-size: 36px;
   text-transform: capitalize;
 
@@ -148,8 +131,6 @@ body {
 
 /* Our Portfolio */
 .portfolio-title {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
   font-size: 36px;
   text-transform: capitalize;
 
@@ -170,10 +151,6 @@ body {
 }
 
 .footer-text {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
